@@ -17,13 +17,17 @@ All over the map you can find mastery statues. Finding and using each statue gra
 ## Rarity system
 
 One of the most exciting features in Tibiascape is the possibility of looting and creating items with special attributes. Every monster has a chance to drop an item which will show as _unidentified_. You'll notice when this happend if after killing a monster you'll _Rarity!_ text appear over its body. When you _use_ an unidentified item, it'll become of the following:
-- Common (green outline) - 1 additional attribute
-- Rare (blue outline) - 2 additional attributes
-- Epic (purple outline) - 3 additional attributes
-- Legendary (orange outline) - 4 additional attributes
-- Rare (red outline) - 5 additional attributes
-- Mythic (brown outline) - 6 additional attributes
 
+| Rarity     | Color  | Attributes              |
+| ---------- | ------ | ----------------------- |
+| Common     | Green  | 1 additional attribute  |
+| Rare       | Blue   | 2 additional attributes |
+| Epic       | Purple | 3 additional attributes |
+| Legendary  | Orange | 4 additional attributes |
+| Ancient    | Red    | 5 additional attributes |
+| Mythic     | Brown  | 6 additional attributes |
+
+### Attributes 
 The additional attributes can be added as "locked" or "open":
 - Locked - This attribute cannot be removed from the item unless the item is reforged (see below)
 - Open - This attribute can be added and removed unlimited number of times:
@@ -47,11 +51,15 @@ Besides the quests, you can also fight in the Svargrond arenas: Greenhorn, Scrap
 ## Guilds
 
 A guild can level up. Guild levels are increased by donating ores to the guild. Every level additional 5 more guild seats are unlocked. Every 2 levels a new perk is available to choose from. Here are the known perks:
-- Level 2: +2 hp regen OR +1 mana regen
-- Level 4: +5% dmg to monster OR +5% dmg to players
-- Level 6: +1 magic level OR +5 all skills
-- Level 8: +3% physical resitance OR +3% magic resistance
-- Level 10: +3% critical chance OR +20% critical damage
+
+| Level | Option 1                | Option 2             |
+| ----- | ----------------------- | -------------------- |
+| 2     | +2 hp regen             | +1 mana regen        |
+| 4     | +5% dmg to monsters     | +5% dmg to players   |
+| 6     | +1 magic level          | +5 all skills        |
+| 8     | +3% physical resistance | +3% magic resistance |
+| 10    | +3% critical chance     | +20% critical damage |
+
 
 ## Runes
 
