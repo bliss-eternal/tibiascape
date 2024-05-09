@@ -109,3 +109,45 @@ Each purchased blessing decreases your losses by 1%.
 
 **NOTE: Bestiary and death:** Your experience gain is double only until you regain the same level of experience - it doesn't matter how you do it. If you complete a bestiary milestone while on double experience, and through that regain the same level of experience you had before dying, you'll lose the double experience bonus. It's therefore advisable to avoid completing a bestiary milestone while you're on double experience - you'll be able to gain more experience in the same time.
 
+# Monster classes (races)
+
+Tibiascape has its own system of categorizing monsters. These differ from Tibia. To be able to wisely choose a character stat which increase your resitance or damage to a particular group, it's good to know which monster falls under which category. For brevity here's my subjective categorization of which groups of items are best to pick and when are they useful based on the number of monsters in each category and how likely one would be hunting them.
+
+**Great:**
+- Demons
+- Dragons
+- Humans
+- Magicals
+- Undeads
+  
+**Good:**
+- Giants
+- Vermin
+- Lycanthropes
+  
+**Okay:**
+- Aquatics
+- Reptiles
+- Humanoid
+
+**Poor:**
+- Amphibics
+- Constructs
+- Dimensionals
+- Elemental
+- Slimes
+
+**Bad:**
+- Mammals
+- Birds
+- Feys
+- Plants
+
+If there's interest, I could list all monsters which belong to each category.
+
+
+
+
+
+
+
