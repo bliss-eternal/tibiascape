@@ -7,8 +7,17 @@ I created this short guide to write down what I learn about the game. If you hav
 Table of Contents:
 - [Character stats](#character-stats)
     - [Statues](#statues)
+    - [Random stats](#random-stats)
 - [Rarity system](#rarity-system)
     - [Attributes](#attributes)
+- [Bestiary](#bestiary)
+- [Quests](#quests)
+- [Guilds](#guilds)
+- [Runes](#runes)
+- [Rune crafting](#rune-crafting)
+- [Mining](#mining)
+- [Skinning](#skinning)
+- [Death](#death)
 
 ## Character stats
 
@@ -19,6 +28,12 @@ Depending on your vocation and whether you have promotion or not, each point spe
 ### Statues
 
 All over the map you can find mastery statues. Finding and using each statue grants you 1 additional mastery point. There are over 400 mastery statues across the continents - some hidden in places players don't typically visit, others in quest areas, still others placed in what seems random locations. 
+
+### Random stats
+
+Every level advancement you receive a chance to pick from 3 random additional attributes. These attributes represent attributes available also on items with rarity. The full list of available stats:
+
+HP, MP, Magic Level, Melee Skills, Fist Fighting, Sword Fighting, Axe Fighting, Club Fighting, Distance Fighting, Shielding, Mana Shield, Life Leech, Experience, Physical Damage, Energy Damage, Earth Damage, Fire Damage, Ice Damage, Holy Damage, Death Damage, Spell Damage, Physical Resistance, Energy Resistance, Earth Resistance, Fire Resistance, Ice Resistance, Holy Resistance, Death Resistance, Magic Resistance, Fire Attack, Fire when Hit, Ice Attack, Ice when Hit, Earth Attack, Earth when Hit, Death Attack, Death when Hit, Holy Attack, Holy when Hit, Energy Attack, Energy when Hit, Health on Kill, Mana on Kill, Mana Leech, Healing, Luck, Critical Chance, Mining Skill, Skinning Skill, Fishing Skill, Speed, Charges, Undead Damage, Amphibic Damage, Aquatic Damage, Bird Damage, Construct Damage, Demon Damage, Dragon Damage, Elemental Damage, Dimensional Damage, Fey Damage, Giant Damage, Human Damage, Humanoid Damage, Lycanthrope Damage, Magical Damage, Mammal Damage, Undead Damage, Plant Damage, Reptile Damage, Slime Damage, Vermin Damage, Amphibic Resistance, Aquatic Resistance, Bird Resistance, Construct Resistance, Demon Resistance, Dragon Resistance, Elemental Resistance, Dimensional Resistance, Fey Resistance, Giant Resistance, Human Resistance, Humanoid Resistance, Lycanthrope Resistance, Magical Resistance, Mammal Resistance, Plant Resistance, Reptile Resistance, Slime Resistance, Vermin Resistance, Spell Crit, Dodge Chance, Undead Resistance, Weight Reduction, Life Drain Resistance, Mana Drain Resistance, Chance to keep charge, Mining Damage, Mining Yield, Mining Stonebreaker, Burn Condition, Bleed Condition, Poison Condition, Freezing Condition, Energy Condition, Dazzled Condition. 
 
 ## Rarity system
 
@@ -47,6 +62,18 @@ The stronger the monster which dropped the item, the higher the values of additi
 It's also possible to turn a regular item into one with rarity using a _Magic Ore_ on an item (dropped by evil and demonic monsters). This will turn your item into an unidentified one.
 
 For special items which received bad additional attribute(s) it's also possible to turn them back into unidentified. This can be done in _The Forge_ in the _Depot Hub_ which provides a 50% chance of reforging an item or losing a hefty sum of money or an exalted core. Each item can be reforged a limited number of times.
+
+## Bestiary
+
+You gain experience points for killing a specific number of monsters. For first 100 kills you'll be rewarded with experience equivalent to 100 of those mobs, e.g. for killing 100 dragons you'll receive 70 000 experience.
+
+With each next bestiary milestone, you receive less experience per monster:
+
+- 100 kills - 100% experience
+- 400 kills - 90% experience
+- 500 kills - 75% experience
+- 1500 kills - 60% experience
+- 2500 kills - 50% experience
 
 ## Quests 
 
@@ -98,18 +125,6 @@ The higher the mining skill, the more damage you can deal with your pickaxe. The
 ## Skinning
 
 Creature items like dragon leather can be obtained by skinning animals using an obsidian knife, or a blessed wooden stake. Obsidian knives can be crafted, but have a chance to break when during use. 
-
-## Bestiary
-
-You gain experience points for killing a specific number of monsters. For first 100 kills you'll be rewarded with experience equivalent to 100 of those mobs, e.g. for killing 100 dragons you'll receive 70 000 experience.
-
-With each next bestiary milestone, you receive less experience per monster:
-
-- 100 kills - 100% experience
-- 400 kills - 90% experience
-- 500 kills - 75% experience
-- 1500 kills - 60% experience
-- 2500 kills - 50% experience
 
 ## Death
 
