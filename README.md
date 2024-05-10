@@ -153,7 +153,9 @@ Tibiascape has its own system of categorizing monsters. These differ from Tibia.
 
 If there's interest, I could list all monsters which belong to each category.
 
+## Dungeons
 
+As of today, May 11 2024 dungeons are not accessible.
 
 
 
