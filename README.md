@@ -4,6 +4,12 @@
 
 I created this short guide to write down what I learn about the game. If you have suggestions for improvement, please submit an issue or a pull request.
 
+Table of Contents:
+- [Character stats](#character-stats)
+    - [Statues](#statues)
+- [Rarity system](#rarity-system)
+    - [Attributes](#attributes)
+
 ## Character stats
 
 In Tibiascape every time you advance a level you're rewarded with 10 mastery points which you can spend to increase any of the attributes: health points (hp), mana points (mp), health regeneration, mana regeneration, speed, and capacity. 
