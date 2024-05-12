@@ -12,6 +12,7 @@ Table of Contents:
     - [Attributes](#attributes)
 - [Bestiary](#bestiary)
 - [Quests](#quests)
+    - [Rashid](#rashid)     
 - [Guilds](#guilds)
 - [Runes](#runes)
 - [Rune crafting](#rune-crafting)
@@ -80,6 +81,18 @@ With each next bestiary milestone, you receive less experience per monster:
 Most quests in Tibiascape have altered rewards. Instead of getting equipment you'll instead receive ores, runes, rings of healing and other items. 
 
 Besides the quests, you can also fight in the Svargrond arenas: Greenhorn, Scrapper, and Warlord. The rewards offer a choice of items useful for every profession. 
+
+### Rashid
+
+Locations:
+- Monday - Darashia, south-west from depot
+- Tuesday - Ankrahmun, post office west from boat
+- Wednesday - Thais, the tavern
+- Thursday - Venore, below depot
+- Friday -  Carlin, south-east of depot
+- Saturday: Edron, above depot
+- Sunday - Femor hills, the tower
+
 
 ## Guilds
 
